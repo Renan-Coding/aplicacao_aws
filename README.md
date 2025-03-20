@@ -1,4 +1,4 @@
-# Aplicação Web com AWS EC2 e RDS
+# Aplicação Web com AWS - Renan Reis
 
 &nbsp;&nbsp;Este repositório contém uma aplicação web integrada a um banco de dados Amazon RDS, desenvolvida seguindo o tutorial da AWS e expandida com funcionalidades adicionais.
 
