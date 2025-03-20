@@ -47,4 +47,4 @@ A aplicação utiliza a arquitetura na AWS:
 
 ## Link para o vídeo explicativo
 
-[Clique Aqui](https://youtu.be/n-b73WCPa2E)
+[Clique Aqui](https://youtu.be/THzMKA1IcZY)
