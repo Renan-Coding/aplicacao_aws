@@ -44,3 +44,7 @@ A aplicação utiliza a arquitetura na AWS:
 - Instância EC2 para o servidor web
 - Instância RDS para o banco de dados
 - Configuração de VPC para comunicação segura entre os serviços
+
+## Link para o vídeo explicativo
+
+[Clique Aqui](https://youtu.be/n-b73WCPa2E)
